@@ -29,8 +29,7 @@ public class TestaBibliotecas {
 		
 		//log()  retorna o logaritmo natural.
 		System.out.println("Logaritimo: " +Math.log(n1));
-		
-		
+			
 		//pow() retorna o valor n1 elevado à potência n2.
 		System.out.println("Valor da potencia é: " +Math.pow(n1, n2));
 		
@@ -45,9 +44,6 @@ public class TestaBibliotecas {
 		
 		//toRadians() converte um ângulo dado em graus para seu equivalente em radianos.
 		System.out.println("Convertendo angulo dado em graus: " +Math.toRadians(n2));
-		
-		
-
 
 
 	}
